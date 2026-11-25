@@ -1,0 +1,1 @@
+{"description":"One line of awkward small talk that one robot says to another while they ride an elevator together.","license":"MIT","name":"two-robots-in-an-elevator","scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
